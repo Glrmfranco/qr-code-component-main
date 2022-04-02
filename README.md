@@ -48,4 +48,3 @@ I intend to gradually continue to better understand flexbox and Grid, which are 
 ## Author
 
 - Github - [Guilherme](https://github.com/Glrmfranco)
-- 
